@@ -14,7 +14,7 @@ namespace loginPage
     {
         public loginInputPage()
         {
-            InitializeComponent();
+            InitializeComponent();  
         }
 
         private void loginButton_Click(object sender, EventArgs e)
